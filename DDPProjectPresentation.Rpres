@@ -24,7 +24,7 @@ A view of the App: an Example
 
 If one wants to see the effect of the $\alpha$ and $\beta$ parameters on the PDF and CDF curves of a Beta Distribution, one chooses at the selection the "Beta Distribution" (default), and then plays with the Input spaces below (Characteristic values 1 and 2). See Help tab, for help. 
 
-
+![asd](sample.png)
 
 Final Remarks
 ========================================================
